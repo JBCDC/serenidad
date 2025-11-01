@@ -5,8 +5,8 @@ bookdown::gitbook:
       before: |
         <li><a href="https://bookdown.org/becerra_je/Jasper01/author-jb.html#esoteric-publications">A JB Book</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+       <li><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">© 2025 José Becerra CC BY‑NC‑ND</a></li>
+    edit: https://github.com/jbcdc/serenidad/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
