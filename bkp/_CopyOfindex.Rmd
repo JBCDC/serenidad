@@ -1,0 +1,28 @@
+--- 
+title: "Operación Serenidad 2025"
+author: "José Becerra"
+date: " 2025-06-27; revised: `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Operación Serenidad
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Introducción {-}
+
+En un mundo marcado por la inmediatez y la incertidumbre, el concepto de la serenidad, como parte de un nuevo yoga, emerge con una fuerza renovada. No son simples ideas abstractas, sino herramientas esenciales para navegar los desafíos de nuestra época. Este libro se propone explorar estos valores a través de un prisma histórico, filosófico y práctico, con un enfoque hacia la reflexión y la transformación personal y colectiva.  
+
+Partimos de dos hitos relevantes en la historia de Puerto Rico, "Operación Serenidad" y "Operación Manos a la Obra", concebidos bajo la visión de Luis Muñoz Marín. Una mirada inicial podría considerarlas como esfuerzos independientes, orientados uno hacia la producción económica y el otro hacia el enriquecimiento cultural. Sin embargo, en su núcleo compartían una intención común y visionaria. Se trataba de un balance consciente entre progreso material y crecimiento espiritual, una búsqueda de armonía entre la acción y la contemplación, los cimientos prácticos y las alturas de la creatividad humana.  
+
+El propósito de este libro no es solo rendir homenaje a estas iniciativas, sino también situarlas en el contexto de los desafíos contemporáneos. En una era donde las demandas tecnológicas, las tensiones sociales y las crisis ambientales desdibujan con frecuencia las fronteras de la vida equilibrada, preguntarnos cómo reavivar el espíritu de la serenidad se vuelve ineludible. Aquí es donde los principios de nuevo yoga — la atención plena (mindfulness), la serena expectación y la perfecta adaptabilidad (resiliencia) —  históricamente asociados a la filosofía y a prácticas contemplativas, muestran una vigencia sorprendente al conectar con la búsqueda de propósito en un entorno en constante flujo.  
+
+A través de estas páginas, proponemos un recorrido que conecta la introspección individual con los procesos comunitarios; la serenidad, como un estado íntimo y receptivo, con su expresión activa en la transformación de sociedades. Explorar cómo estos ideales se relacionan con temas contemporáneos en la construcción de estructuras sociales más sostenibles será parte esencial de nuestra travesía.  
+
+En este trabajo, reflexionaremos sobre los matices de la serenidad, las dinámicas de la atención plena y su impacto en diversos contextos, desde las raíces culturales de Puerto Rico hasta los impulsos universales de búsqueda y equilibrio. Porque la serenidad, al igual que la creatividad, no es un lujo; es una necesidad vital en cualquier esfuerzo por crear un mundo que no solo funcione, sino que realmente florezca.  
+
+Las siguientes páginas son una invitación a descifrar juntos cómo la calma interior puede alimentar un cambio colectivo, y cómo la claridad, la atención plena y la constancia pueden convertirse en faros en medio de los desafíos modernos. Con la serenidad como punto de partida, esta es una exploración para avanzar con propósito en un mundo que, ahora más que nunca, necesita nuestra acción equilibrada y consciente.  

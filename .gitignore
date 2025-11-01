@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.html
+/libs/
+!_book/*.html
+_book/index.html
+_book/references.html
+_book/search_index.json
+_book/*.html
